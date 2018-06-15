@@ -1,0 +1,542 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+170111 21:55:54  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+170111 21:55:55  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+170111 21:55:55  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+170111 21:55:56  InnoDB: Started; log sequence number 0 0
+170111 21:55:56 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170111 21:56:46 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170111 21:56:46  InnoDB: Starting shutdown...
+170111 21:56:48  InnoDB: Shutdown completed; log sequence number 0 43655
+170111 21:56:48 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170111 21:56:50  InnoDB: Started; log sequence number 0 43655
+170111 21:56:50 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170111 21:56:55 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170111 21:56:55  InnoDB: Starting shutdown...
+170111 21:56:58  InnoDB: Shutdown completed; log sequence number 0 43655
+170111 21:56:58 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170111 21:57:01  InnoDB: Started; log sequence number 0 43655
+170111 21:57:01 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170111 22:05:04 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170111 22:05:04  InnoDB: Starting shutdown...
+170111 22:05:07  InnoDB: Shutdown completed; log sequence number 0 43655
+170111 22:05:07 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170112 17:30:29  InnoDB: Started; log sequence number 0 43655
+170112 17:30:30 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170112 17:56:49 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170112 17:56:49  InnoDB: Starting shutdown...
+170112 17:56:51  InnoDB: Shutdown completed; log sequence number 0 43655
+170112 17:56:51 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170112 19:12:47  InnoDB: Started; log sequence number 0 43655
+170112 19:12:48 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170112 21:00:23 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170112 21:00:23  InnoDB: Starting shutdown...
+170112 21:00:26  InnoDB: Shutdown completed; log sequence number 0 43655
+170112 21:00:26 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170113  0:09:11  InnoDB: Started; log sequence number 0 43655
+170113  0:09:11 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170113  0:52:57 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170113  0:52:57  InnoDB: Starting shutdown...
+170113  0:53:00  InnoDB: Shutdown completed; log sequence number 0 43655
+170113  0:53:00 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170113 13:52:41  InnoDB: Started; log sequence number 0 43655
+170113 13:52:42 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170113 14:54:41 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170113 14:54:41  InnoDB: Starting shutdown...
+170113 14:54:44  InnoDB: Shutdown completed; log sequence number 0 45466
+170113 14:54:44 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170113 17:04:05  InnoDB: Started; log sequence number 0 45466
+170113 17:04:05 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170113 19:09:18 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170113 19:09:18  InnoDB: Starting shutdown...
+170113 19:09:21  InnoDB: Shutdown completed; log sequence number 0 50268
+170113 19:09:21 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170113 22:34:11  InnoDB: Started; log sequence number 0 50268
+170113 22:34:12 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170114  1:01:31 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170114  1:01:31  InnoDB: Starting shutdown...
+170114  1:01:34  InnoDB: Shutdown completed; log sequence number 0 52319
+170114  1:01:34 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170114 15:26:12  InnoDB: Started; log sequence number 0 52319
+170114 15:26:14 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170114 16:12:17 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170114 16:12:17  InnoDB: Starting shutdown...
+170114 16:12:19  InnoDB: Shutdown completed; log sequence number 0 66005
+170114 16:12:19 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170114 17:53:31  InnoDB: Started; log sequence number 0 66005
+170114 17:53:31 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170114 17:57:18 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170114 17:57:18  InnoDB: Starting shutdown...
+170114 17:57:21  InnoDB: Shutdown completed; log sequence number 0 66015
+170114 17:57:21 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170115 10:35:57  InnoDB: Started; log sequence number 0 66015
+170115 10:35:58 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170115 10:39:26 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170115 10:39:26  InnoDB: Starting shutdown...
+170115 10:39:28  InnoDB: Shutdown completed; log sequence number 0 66015
+170115 10:39:28 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170115 14:12:37  InnoDB: Started; log sequence number 0 66015
+170115 14:12:38 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170115 14:48:48 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170115 14:48:50 [Warning] c:\wamp\mysql\bin\mysqld-nt.exe: Forcing close of thread 11  user: 'root'
+
+170115 14:48:50  InnoDB: Starting shutdown...
+170115 14:48:53  InnoDB: Shutdown completed; log sequence number 0 66025
+170115 14:48:53 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170117 21:21:30  InnoDB: Started; log sequence number 0 66025
+170117 21:21:31 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170117 21:44:34 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170117 21:44:34  InnoDB: Starting shutdown...
+170117 21:44:37  InnoDB: Shutdown completed; log sequence number 0 66035
+170117 21:44:37 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170118  0:29:39  InnoDB: Started; log sequence number 0 66035
+170118  0:29:39 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170118  0:55:47 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170118  0:55:49 [Warning] c:\wamp\mysql\bin\mysqld-nt.exe: Forcing close of thread 25  user: 'root'
+
+170118  0:55:49 [Warning] c:\wamp\mysql\bin\mysqld-nt.exe: Forcing close of thread 16  user: 'root'
+
+170118  0:55:49 [Warning] c:\wamp\mysql\bin\mysqld-nt.exe: Forcing close of thread 15  user: 'root'
+
+170118  0:55:49  InnoDB: Starting shutdown...
+170118  0:55:52  InnoDB: Shutdown completed; log sequence number 0 66170
+170118  0:55:52 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170210 17:16:28  InnoDB: Started; log sequence number 0 66170
+170210 17:16:29 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170210 20:23:14 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170210 20:23:14  InnoDB: Starting shutdown...
+170210 20:23:18  InnoDB: Shutdown completed; log sequence number 0 83524
+170210 20:23:18 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170211 10:57:54  InnoDB: Started; log sequence number 0 83524
+170211 10:57:54 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170211 12:47:57 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170211 12:47:57  InnoDB: Starting shutdown...
+170211 12:48:01  InnoDB: Shutdown completed; log sequence number 0 89151
+170211 12:48:01 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170211 15:45:39  InnoDB: Started; log sequence number 0 89151
+170211 15:45:39 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170211 17:17:23 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170211 17:17:24  InnoDB: Starting shutdown...
+170211 17:17:25  InnoDB: Shutdown completed; log sequence number 0 98909
+170211 17:17:25 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170211 23:15:55  InnoDB: Started; log sequence number 0 98909
+170211 23:15:56 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170212  1:25:19 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170212  1:25:20  InnoDB: Starting shutdown...
+170212  1:25:21  InnoDB: Shutdown completed; log sequence number 0 98909
+170212  1:25:21 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170213  8:47:44  InnoDB: Started; log sequence number 0 98909
+170213  8:47:45 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170213 11:02:06 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170213 11:02:06  InnoDB: Starting shutdown...
+170213 11:02:08  InnoDB: Shutdown completed; log sequence number 0 98919
+170213 11:02:08 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170213 12:19:30  InnoDB: Started; log sequence number 0 98919
+170213 12:19:31 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170213 12:26:11 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170213 12:26:11  InnoDB: Starting shutdown...
+170213 12:26:14  InnoDB: Shutdown completed; log sequence number 0 98929
+170213 12:26:14 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170215 23:08:45  InnoDB: Started; log sequence number 0 98929
+170215 23:08:45 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170216  0:52:44 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170216  0:52:45  InnoDB: Starting shutdown...
+170216  0:52:47  InnoDB: Shutdown completed; log sequence number 0 98939
+170216  0:52:47 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170222 23:42:49  InnoDB: Started; log sequence number 0 98939
+170222 23:42:49 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170223  0:49:21 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170223  0:49:22  InnoDB: Starting shutdown...
+170223  0:49:25  InnoDB: Shutdown completed; log sequence number 0 98949
+170223  0:49:25 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170225  1:33:36  InnoDB: Started; log sequence number 0 98949
+170225  1:33:37 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170225  2:07:18 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170225  2:07:18  InnoDB: Starting shutdown...
+170225  2:07:20  InnoDB: Shutdown completed; log sequence number 0 99919
+170225  2:07:20 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170227 16:41:19  InnoDB: Started; log sequence number 0 99919
+170227 16:41:19 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170227 18:44:59 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170227 18:44:59  InnoDB: Starting shutdown...
+170227 18:45:01  InnoDB: Shutdown completed; log sequence number 0 145027
+170227 18:45:01 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170227 19:07:30  InnoDB: Started; log sequence number 0 145027
+170227 19:07:30 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170227 21:09:22 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170227 21:09:22  InnoDB: Starting shutdown...
+170227 21:09:24  InnoDB: Shutdown completed; log sequence number 0 145073
+170227 21:09:24 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170228 14:39:17  InnoDB: Started; log sequence number 0 145073
+170228 14:39:17 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170228 15:21:09 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170228 15:21:09  InnoDB: Starting shutdown...
+170228 15:21:10  InnoDB: Shutdown completed; log sequence number 0 145083
+170228 15:21:10 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170301 10:36:10  InnoDB: Started; log sequence number 0 145083
+170301 10:36:11 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170301 11:44:18 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170301 11:44:19  InnoDB: Starting shutdown...
+170301 11:44:21  InnoDB: Shutdown completed; log sequence number 0 145788
+170301 11:44:21 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170301 12:10:47  InnoDB: Started; log sequence number 0 145788
+170301 12:10:47 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170301 12:52:54 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170301 12:52:54  InnoDB: Starting shutdown...
+170301 12:52:56  InnoDB: Shutdown completed; log sequence number 0 145798
+170301 12:52:56 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170301 15:09:16  InnoDB: Started; log sequence number 0 145798
+170301 15:09:17 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170301 16:54:49 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170301 16:54:50  InnoDB: Starting shutdown...
+170301 16:54:53  InnoDB: Shutdown completed; log sequence number 0 160357
+170301 16:54:53 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170301 17:09:37  InnoDB: Started; log sequence number 0 160357
+170301 17:09:37 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170301 18:45:03 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170301 18:45:03  InnoDB: Starting shutdown...
+170301 18:45:06  InnoDB: Shutdown completed; log sequence number 0 161486
+170301 18:45:06 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170301 19:47:26  InnoDB: Started; log sequence number 0 161486
+170301 19:47:26 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170301 21:14:12 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170301 21:14:12  InnoDB: Starting shutdown...
+170301 21:14:16  InnoDB: Shutdown completed; log sequence number 0 163656
+170301 21:14:16 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170302  0:13:49  InnoDB: Started; log sequence number 0 163656
+170302  0:13:50 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170302  2:59:32 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170302  2:59:33  InnoDB: Starting shutdown...
+170302  2:59:37  InnoDB: Shutdown completed; log sequence number 0 167753
+170302  2:59:37 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170302  9:26:59  InnoDB: Started; log sequence number 0 167753
+170302  9:27:00 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170302 12:47:01 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170302 12:47:02  InnoDB: Starting shutdown...
+170302 12:47:05  InnoDB: Shutdown completed; log sequence number 0 169010
+170302 12:47:05 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170302 13:04:26  InnoDB: Started; log sequence number 0 169010
+170302 13:04:27 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170302 17:25:02 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170302 17:25:04  InnoDB: Starting shutdown...
+170302 17:25:07  InnoDB: Shutdown completed; log sequence number 0 171152
+170302 17:25:07 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170303 18:40:02  InnoDB: Started; log sequence number 0 171152
+170303 18:40:02 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170303 21:11:25 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170303 21:11:26  InnoDB: Starting shutdown...
+170303 21:11:29  InnoDB: Shutdown completed; log sequence number 0 171570
+170303 21:11:29 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170307 20:16:07  InnoDB: Started; log sequence number 0 171570
+170307 20:16:08 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170307 20:59:35 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170307 20:59:35  InnoDB: Starting shutdown...
+170307 20:59:39  InnoDB: Shutdown completed; log sequence number 0 171852
+170307 20:59:39 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170326 20:10:45  InnoDB: Started; log sequence number 0 171852
+170326 20:10:47 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170326 20:49:58 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170326 20:49:58  InnoDB: Starting shutdown...
+170326 20:50:02  InnoDB: Shutdown completed; log sequence number 0 172138
+170326 20:50:02 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170331 20:16:19  InnoDB: Started; log sequence number 0 172138
+170331 20:16:20 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170331 21:08:04 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170331 21:08:05  InnoDB: Starting shutdown...
+170331 21:08:06  InnoDB: Shutdown completed; log sequence number 0 173616
+170331 21:08:06 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170403  0:43:07  InnoDB: Started; log sequence number 0 173616
+170403  0:43:07 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170403  2:49:45 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170403  2:49:46  InnoDB: Starting shutdown...
+170403  2:49:49  InnoDB: Shutdown completed; log sequence number 0 198717
+170403  2:49:49 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170410 12:56:06  InnoDB: Started; log sequence number 0 198717
+170410 12:56:06 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170410 12:59:06 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170410 12:59:06  InnoDB: Starting shutdown...
+170410 12:59:09  InnoDB: Shutdown completed; log sequence number 0 198717
+170410 12:59:09 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170410 15:38:28  InnoDB: Started; log sequence number 0 198717
+170410 15:38:29 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170410 15:43:14 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170410 15:43:14  InnoDB: Starting shutdown...
+170410 15:43:18  InnoDB: Shutdown completed; log sequence number 0 198717
+170410 15:43:18 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170410 15:47:58  InnoDB: Started; log sequence number 0 198717
+170410 15:47:59 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170410 16:24:29 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170410 16:24:29  InnoDB: Starting shutdown...
+170410 16:24:32  InnoDB: Shutdown completed; log sequence number 0 198727
+170410 16:24:32 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170410 16:59:05  InnoDB: Started; log sequence number 0 198727
+170410 16:59:05 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170411  1:02:06 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170411  1:02:08  InnoDB: Starting shutdown...
+170411  1:02:20  InnoDB: Shutdown completed; log sequence number 0 228952
+170411  1:02:20 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170411 13:35:25  InnoDB: Started; log sequence number 0 228952
+170411 13:35:25 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170411 17:46:44 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170411 17:46:46  InnoDB: Starting shutdown...
+170411 17:46:51  InnoDB: Shutdown completed; log sequence number 0 357564
+170411 17:46:52 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170411 18:27:02  InnoDB: Started; log sequence number 0 357564
+170411 18:27:03 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170411 20:29:48 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170411 20:29:48  InnoDB: Starting shutdown...
+170411 20:29:52  InnoDB: Shutdown completed; log sequence number 0 369485
+170411 20:29:52 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170412 14:46:45  InnoDB: Started; log sequence number 0 369485
+170412 14:46:46 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170412 15:52:14 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170412 15:52:14  InnoDB: Starting shutdown...
+170412 15:52:17  InnoDB: Shutdown completed; log sequence number 0 376439
+170412 15:52:17 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170412 22:38:18  InnoDB: Started; log sequence number 0 376439
+170412 22:38:18 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170413 15:45:21  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170413 15:45:21  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 379289.
+InnoDB: Doing recovery: scanned up to log sequence number 0 379289
+170413 15:45:22  InnoDB: Started; log sequence number 0 379289
+170413 15:45:22 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170413 17:59:42 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170413 17:59:42  InnoDB: Starting shutdown...
+170413 17:59:45  InnoDB: Shutdown completed; log sequence number 0 422834
+170413 17:59:45 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170419 11:38:01  InnoDB: Started; log sequence number 0 422834
+170419 11:38:02 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170419 13:18:06 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170419 13:18:06  InnoDB: Starting shutdown...
+170419 13:18:08  InnoDB: Shutdown completed; log sequence number 0 429717
+170419 13:18:08 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170925  8:02:31  InnoDB: Started; log sequence number 0 429717
+170925  8:02:33 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170925  8:29:16 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170925  8:29:16  InnoDB: Starting shutdown...
+170925  8:29:19  InnoDB: Shutdown completed; log sequence number 0 429727
+170925  8:29:19 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170925 10:07:27  InnoDB: Started; log sequence number 0 429727
+170925 10:07:27 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170925 10:15:01 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170925 10:15:01  InnoDB: Starting shutdown...
+170925 10:15:05  InnoDB: Shutdown completed; log sequence number 0 429737
+170925 10:15:05 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+170930 15:47:04  InnoDB: Started; log sequence number 0 429737
+170930 15:47:05 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170930 16:36:38 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+170930 16:36:38  InnoDB: Starting shutdown...
+170930 16:36:39  InnoDB: Shutdown completed; log sequence number 0 429747
+170930 16:36:39 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+180205 12:01:59  InnoDB: Started; log sequence number 0 429747
+180205 12:02:01 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+180205 15:20:50 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+180205 15:20:51  InnoDB: Starting shutdown...
+180205 15:20:57  InnoDB: Shutdown completed; log sequence number 0 430006
+180205 15:20:57 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+180613 13:22:45  InnoDB: Started; log sequence number 0 430006
+180613 13:22:46 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+180613 15:07:10  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180613 15:07:10  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 430016.
+InnoDB: Doing recovery: scanned up to log sequence number 0 430016
+180613 15:07:10  InnoDB: Started; log sequence number 0 430016
+180613 15:07:11 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+180613 16:03:33 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+180613 16:03:35  InnoDB: Starting shutdown...
+180613 16:03:56  InnoDB: Shutdown completed; log sequence number 0 437571
+180613 16:03:56 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+180613 17:52:53  InnoDB: Started; log sequence number 0 437571
+180613 17:52:54 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+180614  1:54:34 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+180614  1:54:39  InnoDB: Starting shutdown...
+180614  1:54:46  InnoDB: Shutdown completed; log sequence number 0 437713
+180614  1:54:47 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+180615 20:18:47  InnoDB: Started; log sequence number 0 437713
+180615 20:18:50 [Note] c:\wamp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.27-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
