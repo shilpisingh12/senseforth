@@ -1,0 +1,14 @@
+SMAP
+linter_jsp.java
+JSP
+*S JSP
+*F
++ 0 linter.jsp
+linter.jsp
+*L
+5,20:46
+25,17:67
+41,8:84
+48,9:92
+56,5:101
+*E

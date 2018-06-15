@@ -1,0 +1,16 @@
+SMAP
+attach1_jsp.java
+JSP
+*S JSP
+*F
++ 0 attach1.jsp
+attach1.jsp
+*L
+1,20:62
+21,8:20
+28,2:82
+31,40:86
+70,2:126
+72,23:129
+94,4:152
+*E

@@ -1,1 +1,0 @@
-.\mysql\bin\mysqld-nt.exe --install-manual wampmysqld --defaults-file="c:\wamp\mysql\my.ini"
